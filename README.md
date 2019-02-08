@@ -1,1 +1,1 @@
-# exz_reader
+# xyz_reader
