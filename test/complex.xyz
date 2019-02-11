@@ -1,0 +1,3 @@
+1
+ str=astring quot="quoted value" quote_special="a_to_Z_$%%^&*ü☕" escaped_quote="esc\"aped" true_value false_value = F integer=22 floating=1.1 int_array={1 2 3} float_array="3.3 4.4" a3x3_array="1 4 7 2 5 8 3 6 9" Lattice="  4.3  0.0 0.0 0.0  3.3 0.0 0.0 0.0  7.0 " scientific_float=1.2e7 scientific_float_2=5e-6 scientific_float_array="1.2 2.2e3 4e1 3.3e-1 2e-2" not_array="1.2 3.4 text" nested_brackets=[[1,2],[3,4]] bool_array={T F T F} bool_array_2=" T, F, T " not_bool_array=[T F S] ünicode_key=valüe unquoted_special_value=a_to_Z_$%%^&*ü☕ 2body=33.3 hyphen-ated many_other_quotes=({[4 8 12]}) comma_separated="7, 4, -1" bool_array_commas=[T, T, F, T] Properties=species:S:1:pos:R:3 multiple_separators       double_equals=abc=xyz trailing
+H 1.0 1.0 1.0
